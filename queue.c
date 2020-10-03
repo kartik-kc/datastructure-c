@@ -92,7 +92,3 @@ void display(int *rear,int *front,int queue[])
          printf("%d\n",queue[i]);
      }
     }
-
-
-
-
